@@ -2,3 +2,6 @@ def imprimirHola():
     print('Hola mundo!!!\n'*4)
 
 str(imprimirHola())
+str(imprimirHola())
+str(imprimirHola())
+str(imprimirHola())
