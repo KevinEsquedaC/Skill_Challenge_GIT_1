@@ -1,4 +1,4 @@
 def imprimirHola():
-    print('Hola mundo!!!\n'*2)
+    print('Hola mundo!!!\n'*4)
 
 str(imprimirHola())
